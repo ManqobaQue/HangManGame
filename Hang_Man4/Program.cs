@@ -5,9 +5,9 @@ namespace Hang_Man4
     internal class Program
     {
         static string[] wordList = {
-                                "programming", "computer", "developer", "software",
+                                "Software Developer", "computer", "developer", "software",
                                 "algorithm", "variable", "function", "database",
-                                "keyboard", "monitor", "application", "interface"
+                                "keyboard", "Database Administrator", "application", "interface"
                                    };
         static Random rand = new Random();
 
